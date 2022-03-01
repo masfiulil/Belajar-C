@@ -1,0 +1,8 @@
+0 3 tandes kidul; 3 2 1 5300.000000
+1 1 tandes ngalor; 2 3 2 5000.000000
+3 3 tandes ngetan; 5 3 1 3000.000000
+5 2 tanjung kidul; 2 1 1 2200.000000
+6 1 tanjung lor; 3 1 1 2800.000000
+7 2 lidah kulon; 5 1 2 7400.000000
+8 3 lidah kidul; 3 2 1 2590.000000
+9 4 lidah wetan; 6 2 2 7900.000000
